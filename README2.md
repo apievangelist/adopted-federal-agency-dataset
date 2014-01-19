@@ -10,7 +10,7 @@ Your mission if you choose to accept it, is to:
 * Clean up data to the best of your knowledge and ability
 * Create new distributions of the dataset in common formats like CSV and JSON
 * Better describe and tag the dataset in the Data.json entry
-* Create APIs from data and ad as service link
+* Create APIs from data and add as service link
 
 The goal is to leave the dataset in tact, but improve on it and help the [agency name] better serve the public, by making their datasets more discoverable and usable.
 
